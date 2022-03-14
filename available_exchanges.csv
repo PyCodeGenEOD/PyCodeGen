@@ -1,0 +1,73 @@
+,name,code
+0,USA Stocks,US
+1,London Exchange,LSE
+2,Toronto Exchange,TO
+3,TSX Venture Exchange,V
+4,NEO Exchange,NEO
+5,Berlin Exchange,BE
+6,Hamburg Exchange,HM
+7,XETRA Exchange,XETRA
+8,Dusseldorf Exchange,DU
+9,Frankfurt Exchange,F
+10,Hanover Exchange,HA
+11,Munich Exchange,MU
+12,Stuttgart Exchange,STU
+13,Luxembourg Stock Exchange,LU
+14,Vienna Exchange,VI
+15,Borsa Italiana,MI
+16,Euronext Paris,PA
+17,Euronext Brussels,BR
+18,Euronext Lisbon,LS
+19,Swiss Exchange,VX
+20,Euronext Amsterdam,AS
+21,SIX Swiss Exchange,SW
+22,Madrid Exchange,MC
+23,Irish Exchange,IR
+24,Iceland Exchange,IC
+25,First North Denmark,NFN
+26,Riga Exchange,RG
+27,Vilnus Exchange,VS
+28,Nasdaq Baltic,NB
+29,Helsinki Exchange,HE
+30,Oslo Stock Exchange,OL
+31,Stockholm Exchange,ST
+32,Tallinn Exchange,TL
+33,Copenhagen Exchange,CO
+34,Tel Aviv Exchange,TA
+35,Hong Kong Exchange,HK
+36,Korea Stock Exchange,KO
+37,KOSDAQ,KQ
+38,Philippine Stock Exchange,PSE
+39,Budapest Stock Exchange,BUD
+40,Warsaw Stock Exchange,WAR
+41,Singapore Exchange,SG
+42,Bombay Exchange,BSE
+43,Shenzhen Exchange,SHE
+44,Chilean Stock Exchange,SN
+45,Athens Exchange,AT
+46,Jakarta Exchange,JK
+47,Johannesburg Exchange,JSE
+48,Thailand Exchange,BK
+49,Saudi Arabia Exchange,SR
+50,NSE (India),NSE
+51,Karachi Stock Exchange,KAR
+52,Australia Exchange,AU
+53,Shanghai Exchange,SHG
+54,Colombo Stock Exchange,CM
+55,Vietnam Stocks,VN
+56,Kuala Lumpur Exchange,KLSE
+57,Bucharest Stock Exchange,RO
+58,Sao Paolo Exchange,SA
+59,Buenos Aires Exchange,BA
+60,Mexican Exchange,MX
+61,London IL,IL
+62,Zagreb Stock Exchange,ZSE
+63,Europe Fund Virtual Exchange,EUFUND
+65,Taiwan Exchange,TW
+66,Bolsa de Valores de Lima,LIM
+68,Borsa Italiana Certificates,ETLX
+69,Money Market Virtual Exchange,MONEY
+72,MICEX Moscow Russia,MCX
+73,Taiwan OTC Exchange,TWO
+75,Istanbul Stock Exchange,IS
+77,Canadian Securities Exchange,CN
